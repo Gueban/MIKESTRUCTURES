@@ -169,7 +169,7 @@ void matrix::add(int value, int x, int y){
 }
 
 
-
+//--------------------------------------------------------SHOW MATRIX METHOD---------------------------------------------
 
 void matrix::showmatrix(){
     Node *raux=head;
